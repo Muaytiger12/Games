@@ -1536,9 +1536,9 @@
   .burger {
     z-index: 11;
     display: block;
-    position: relative;
+    position: fixed;
     top: 15px;
-    left: 88%;
+    right: 3%;
     width: 60px;
     height: 60px;
     border-radius: 30px;
